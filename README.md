@@ -132,14 +132,7 @@ This repository contains:
 
 ---
 
-## Author
-
 Md. Atique Asif  
-
 Aspiring UI/UX Designer and Web Developer focused on building modern, intuitive, and data-driven digital interfaces.
 
----
 
-## Support
-
-If you find this project useful, consider starring the repository on GitHub.
